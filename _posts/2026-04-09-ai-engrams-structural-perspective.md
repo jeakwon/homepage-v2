@@ -3,7 +3,7 @@ layout: post
 title: "A Structural View of AI Engrams: Notes After a Conversation with Peter Dayan"
 date: 2026-04-09
 description: Floating thoughts on what kind of memory I am actually looking for when I search for engrams in AI models, sparked by a question I could not immediately answer.
-tags: memory engram neuroscience
+tags: memory neuro-ai interpretability alignment
 ---
 
 Yesterday I had a long discussion with Peter Dayan about AI engrams, and one of his questions stayed with me long after the conversation ended. I want to write down what I have been turning over in my head ever since. This is a set of floating thoughts more than a finished argument, but I have a feeling that writing it out is the only way I am going to figure out what I actually believe.
